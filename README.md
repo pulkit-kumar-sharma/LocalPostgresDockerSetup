@@ -1,6 +1,8 @@
 # LocalPostgresDockerSetup
  Locally Run Postgres Databse in Docker Container and Execute Init Scripts
 
+ ![](documentationFiles/SetupPostgresDBLocallyBanner.png)
+
 ## Pre-Requisite
 
 * Docker Desktop
