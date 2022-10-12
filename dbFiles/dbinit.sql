@@ -1,4 +1,3 @@
-/* CMS PROC CD Starts */
 
 CREATE TABLE EMPLOYEE
 (
